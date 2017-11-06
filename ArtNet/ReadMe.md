@@ -1,1 +1,1 @@
-This directory should have everything related ArtNet 
+This directory should have everything related to ArtNet 
