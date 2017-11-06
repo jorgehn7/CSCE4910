@@ -1,1 +1,0 @@
-This directory should only have Python related files
